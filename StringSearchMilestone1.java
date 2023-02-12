@@ -15,5 +15,4 @@ class FileHelper {
     }
 }
 class StringSearch{
-  
 }
